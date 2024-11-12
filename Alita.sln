@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elitea", "Alita\Elitea.csproj", "{84B857F6-FE6D-435B-830F-2C36A2A05674}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EliteaPageObjects", "Locators\EliteaPageObjects.csproj", "{21EE66FC-6FD4-49A5-99D0-035953508588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{776D9585-9BB9-4FC5-A5C6-2819B45F856A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84B857F6-FE6D-435B-830F-2C36A2A05674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B857F6-FE6D-435B-830F-2C36A2A05674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B857F6-FE6D-435B-830F-2C36A2A05674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B857F6-FE6D-435B-830F-2C36A2A05674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21EE66FC-6FD4-49A5-99D0-035953508588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21EE66FC-6FD4-49A5-99D0-035953508588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21EE66FC-6FD4-49A5-99D0-035953508588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21EE66FC-6FD4-49A5-99D0-035953508588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776D9585-9BB9-4FC5-A5C6-2819B45F856A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776D9585-9BB9-4FC5-A5C6-2819B45F856A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776D9585-9BB9-4FC5-A5C6-2819B45F856A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776D9585-9BB9-4FC5-A5C6-2819B45F856A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5353820-12AD-492D-9224-12AC9F40E6AA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\mounika\Alita\Alita\Utilities\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\mounika\Alita\Alita\Utilities\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\mounika\Alita\Alita\Utilities\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\mounika\Alita\Alita\Utilities\bin\Debug\net6.0\Utilities.deps.json
+C:\mounika\Alita\Alita\Utilities\bin\Debug\net6.0\Utilities.dll
+C:\mounika\Alita\Alita\Utilities\bin\Debug\net6.0\Utilities.pdb
+C:\mounika\Alita\Alita\Utilities\obj\Debug\net6.0\Utilities.csproj.AssemblyReference.cache
+C:\mounika\Alita\Alita\Utilities\obj\Debug\net6.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\mounika\Alita\Alita\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfoInputs.cache
+C:\mounika\Alita\Alita\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfo.cs
+C:\mounika\Alita\Alita\Utilities\obj\Debug\net6.0\Utilities.csproj.CoreCompileInputs.cache
+C:\mounika\Alita\Alita\Utilities\obj\Debug\net6.0\Utilities.dll
+C:\mounika\Alita\Alita\Utilities\obj\Debug\net6.0\refint\Utilities.dll
+C:\mounika\Alita\Alita\Utilities\obj\Debug\net6.0\Utilities.pdb
+C:\mounika\Alita\Alita\Utilities\obj\Debug\net6.0\ref\Utilities.dll

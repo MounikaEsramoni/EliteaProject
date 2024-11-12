@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "mVn0Ib4b8NE=",
+  "success": true,
+  "projectFilePath": "C:\\mounika\\Alita\\Alita\\Utilities\\Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mounika_esramoni\\.nuget\\packages\\selenium.support\\4.26.1\\selenium.support.4.26.1.nupkg.sha512",
+    "C:\\Users\\mounika_esramoni\\.nuget\\packages\\selenium.webdriver\\4.26.1\\selenium.webdriver.4.26.1.nupkg.sha512",
+    "C:\\Users\\mounika_esramoni\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\mounika_esramoni\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\mounika_esramoni\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
